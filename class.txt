@@ -1,3 +1,4 @@
+Blue
 Crimson
 Orange
 Green
@@ -5,7 +6,7 @@ Cyan
 Yellow
 Ivory
 Khaki
-Coral
+CoralRed
 Silver
 Fuchsia
 Gray
